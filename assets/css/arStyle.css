@@ -1,0 +1,43 @@
+.rtl{
+direction: rtl !important;
+}
+.contact .info i {
+   
+    float: right;
+    padding: 4px;
+    margin-left: 10px;
+   
+  }
+  #header .logo1 img {
+    max-height: 40px;
+    position: fixed;
+  
+    top: 35px;
+   right: 15%;
+   
+  }
+  .navbar ul li {
+    
+    padding-left: 15px;
+   
+  }
+  .navbar ul li {
+    
+    padding-left: 15px;
+   
+  }
+  .navbar ul {
+    
+   margin-right: 10%;
+   
+  }
+  body,p,a,li{
+    font-family: 'Tajawal', sans-serif !important;
+    font-size: 19px !important;
+}
+
+h1,h2,h3,h4,h5{
+  font-family: 'Tajawal', sans-serif !important;
+ 
+}
+
